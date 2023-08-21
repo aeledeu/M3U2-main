@@ -6,9 +6,9 @@ footer{background-color: #aaa;}
 h1,h2 {font-family: 'Ysabeau SC', sans-serif}
 
 .hero {
-    background: url(../images/Julia\ &\ Fer\ \(153\ de\ 352\)\ \(1\).jpg) no-repeat;
+    background: url(../images/index.jpg) no-repeat;
     background-size: cover;
-    height: 0.5vh;
+    height: 100%;
     min-height: 540px;
 }
 
@@ -39,7 +39,7 @@ h1,h2 {font-family: 'Ysabeau SC', sans-serif}
 }
 
 .lista-servicios li a img {
-    width: 120 px;
+    width: 120px;
     height: 50px;
     filter: grayscale();
     transition: all .2s ease-in-out;
@@ -86,7 +86,7 @@ height: 250px;
  border: 5px solid #f7f7f7;
  cursor: pointer;
 }
-
+  
 .contenedor {
     width: 100%; /* Ancho total del contenedor */
     overflow: hidden; /* Limpieza de flotados */
@@ -107,9 +107,3 @@ height: 250px;
     float: left; /* Alinea el texto a la derecha de la imagen */
     width: calc(50% - 10px); /* El ancho del texto es el 50% del contenedor menos el espacio */
   }
-  
-  
-  
-  
-  
-  
